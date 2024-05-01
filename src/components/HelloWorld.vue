@@ -12,7 +12,7 @@ const num = data["114"]
   <h1>{{ msg }}</h1>
 
   <div class="card">
-    <p>test num is {{ num }}</p>
+    <p>Test Num is: {{ num }}</p>
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
